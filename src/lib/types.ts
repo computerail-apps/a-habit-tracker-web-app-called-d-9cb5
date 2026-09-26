@@ -10,6 +10,6 @@ export interface HabitLog {
   id: string;
   user_id: string;
   habit_id: string;
-  log_date: string; // yyyy-MM-dd
+  log_date: string;
   created_at: string;
 }
